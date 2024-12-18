@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-*5y_erf%$k-768qc3qd17-w9aw^l_e20x*g3e$!4vvthqb9&*@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://animal-classification-lrf6.onrender.com/"]
 
 
 # Application definition
